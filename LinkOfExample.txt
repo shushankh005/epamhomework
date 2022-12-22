@@ -1,0 +1,1 @@
+From https://www.cs.utexas.edu/~scottm/cs307/codingSamples.htm has been choosen "String Example" (https://www.cs.utexas.edu/~scottm/cs307/javacode/codeSamples/StringExample.java)
